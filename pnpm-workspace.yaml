@@ -1,0 +1,4 @@
+strictDepBuilds: false
+
+onlyBuiltDependencies:
+  - esbuild
